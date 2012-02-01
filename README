@@ -1,0 +1,8 @@
+This is a server C# library to send push notification via the Urban Airship http://urbanairship.com web service API.
+
+Since there is no C# example listed on Urban Airship server library sample codes page (https://support.urbanairship.com/customer/portal/articles/60713-push-server-libraries). I decided to created this C# library to help .NET and C# developers to get thing started. 
+
+The library handles:
+basic push
+pushing with tags
+feedback service
