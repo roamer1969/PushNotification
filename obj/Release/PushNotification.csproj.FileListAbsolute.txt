@@ -1,0 +1,10 @@
+I:\PushNotification\PushNotification\bin\Release\PushNotification.exe
+I:\PushNotification\PushNotification\bin\Release\PushNotification.pdb
+I:\PushNotification\PushNotification\bin\Release\Newtonsoft.Json.dll
+I:\PushNotification\PushNotification\bin\Release\NLog.dll
+I:\PushNotification\PushNotification\bin\Release\Newtonsoft.Json.pdb
+I:\PushNotification\PushNotification\bin\Release\Newtonsoft.Json.xml
+I:\PushNotification\PushNotification\bin\Release\NLog.xml
+I:\PushNotification\PushNotification\obj\Release\ResolveAssemblyReference.cache
+I:\PushNotification\PushNotification\obj\Release\PushNotification.exe
+I:\PushNotification\PushNotification\obj\Release\PushNotification.pdb
